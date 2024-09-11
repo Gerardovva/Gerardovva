@@ -24,7 +24,6 @@
   - **LinkedIn:** [www.linkedin.com/in/gerardo-vasquez-vasquez](https://www.linkedin.com/in/gerardo-vasquez-vasquez)
   - **GitHub:** [github.com/Gerardovva](https://github.com/Gerardovva)
   - **Credly:** [Mis Badges](https://www.credly.com/users/gerardo-vasquez.235ffb31/badges)
-- 😄 Pronombres: Él
 - ⚡ Dato curioso: Soy un apasionado por la ciberseguridad en general y el aprendizaje continuo en este campo, siempre desde una perspectiva ética.
 
 
