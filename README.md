@@ -1,6 +1,6 @@
 # 👋 Hola, soy Gerardo Vasquez  
 
-🚀 **Ingeniero en Mecatrónica | Desarrollador | Full Stack en formación | Cloud & Data Enthusiast**
+🚀 **Ingeniero en Mecatrónica | Desarrollador | Full Stack  | Cloud & Data Enthusiast**
 
 Soy un desarrollador apasionado por las nuevas tecnologías, con experiencia en el desarrollo de aplicaciones web modernas y la migración de sistemas legacy a soluciones web eficientes. Me interesa especialmente la **arquitectura en la nube**, el **análisis de datos** y la **inteligencia artificial aplicada a sistemas reales**.
 
